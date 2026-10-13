@@ -4,11 +4,11 @@ namespace Campany.Repos.Interfaces
 {
     public interface IUnitOfWork
     {
-        ApplicationUserCustomRepo ApplicationUserCustomRepo { get; }
-        ProjectCustomRepo ProjectCustomRepo { get; }
-        EmployeeCustomRepo EmployeeCustomRepo { get; }
-        EmployeeProjectCustomRepo EmployeeProjectCustomRepo { get; }
-        DepartmentCustomRepo DepartmentCustomRepo { get; }
+        IApplicationUser ApplicationUserCustomRepo { get; }
+        IProject ProjectCustomRepo { get; }
+        IEmployee EmployeeCustomRepo { get; }
+        IEmployeeProject EmployeeProjectCustomRepo { get; }
+        IDepartment DepartmentCustomRepo { get; }
         Task SaveChanges();
     }
 }

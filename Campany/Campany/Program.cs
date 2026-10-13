@@ -25,13 +25,6 @@ builder.Services.AddDbContext<My_AppContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("conn")
     ));
 
-builder.Services.AddScoped<ApplicationUserCustomRepo>();
-builder.Services.AddScoped<DepartmentCustomRepo>();
-builder.Services.AddScoped<EmployeeProjectCustomRepo>();
-builder.Services.AddScoped<EmployeeCustomRepo>();
-builder.Services.AddScoped<ProjectCustomRepo>();
-
-
 builder.Services.AddScoped<IApplicationUser, ApplicationUserCustomRepo>();
 builder.Services.AddScoped<IDepartment, DepartmentCustomRepo>();
 builder.Services.AddScoped<IEmployeeProject, EmployeeProjectCustomRepo>();

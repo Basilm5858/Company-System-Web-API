@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "AbNDb0liziIuhUEejX5XtyhJQOLX+5Q0AYn9LdPjcaM=",
-  "Source": "Campany",
-  "BasePath": "_content/Campany",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"3itrbkuiLBpudyoPJtR9hyTBVJWHcLasNUnoL+rDqGM=","Source":"Campany","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

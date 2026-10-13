@@ -5,18 +5,18 @@ namespace Campany.Repos.Implementation
 {
     public class UnitOfWork : IUnitOfWork
     {
-        public ApplicationUserCustomRepo ApplicationUserCustomRepo { get; }
+        public IApplicationUser ApplicationUserCustomRepo { get; }
 
-        public ProjectCustomRepo ProjectCustomRepo { get; }
+        public IProject ProjectCustomRepo { get; }
 
-        public EmployeeCustomRepo EmployeeCustomRepo { get; }
+        public IEmployee EmployeeCustomRepo { get; }
 
-        public EmployeeProjectCustomRepo EmployeeProjectCustomRepo { get; }
+        public IEmployeeProject EmployeeProjectCustomRepo { get; }
 
-        public DepartmentCustomRepo DepartmentCustomRepo { get; }
+        public IDepartment DepartmentCustomRepo { get; }
         private readonly My_AppContext _context;
 
-        public UnitOfWork(ApplicationUserCustomRepo applicationUserCustomRepo, ProjectCustomRepo projectCustomRepo, EmployeeCustomRepo employeeCustomRepo, EmployeeProjectCustomRepo employeeProjectCustomRepo, DepartmentCustomRepo departmentCustomRepo, My_AppContext context)
+        public UnitOfWork(IApplicationUser applicationUserCustomRepo, IProject projectCustomRepo, IEmployee employeeCustomRepo, IEmployeeProject employeeProjectCustomRepo, IDepartment departmentCustomRepo, My_AppContext context)
         {
             ApplicationUserCustomRepo = applicationUserCustomRepo;
             ProjectCustomRepo = projectCustomRepo;
