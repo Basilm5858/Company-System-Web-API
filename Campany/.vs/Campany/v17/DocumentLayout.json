@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\repos\\implementation\\departmentcustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\repos\\implementation\\departmentcustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\repos\\implementation\\applicationusercustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\repos\\implementation\\applicationusercustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\repos\\interfaces\\iapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\repos\\interfaces\\iapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\repos\\interfaces\\iemployeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\repos\\interfaces\\iemployeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\repos\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\repos\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\controllers\\employeeprojectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\controllers\\employeeprojectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\repos\\implementation\\employeeprojectcustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\repos\\implementation\\employeeprojectcustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\dtos\\employeeprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\dtos\\employeeprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|c:\\users\\basel.muhammed\\desktop\\campany\\campany\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0D30CD-37DE-4EA6-9A8E-4E6983EB1C36}|Campany\\Campany.csproj|solutionrelative:campany\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "Campany\\Repos\\Interfaces\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "Campany\\Repos\\Interfaces\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:50:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Interfaces\\IApplicationUser.cs",
+              "RelativeDocumentMoniker": "Campany\\Repos\\Interfaces\\IApplicationUser.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Interfaces\\IApplicationUser.cs",
+              "RelativeToolTip": "Campany\\Repos\\Interfaces\\IApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:50:12.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Implementation\\DepartmentCustomRepo.cs",
+              "RelativeDocumentMoniker": "Campany\\Repos\\Implementation\\DepartmentCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Implementation\\DepartmentCustomRepo.cs",
+              "RelativeToolTip": "Campany\\Repos\\Implementation\\DepartmentCustomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:50:10.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUserCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Implementation\\ApplicationUserCustomRepo.cs",
+              "RelativeDocumentMoniker": "Campany\\Repos\\Implementation\\ApplicationUserCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Implementation\\ApplicationUserCustomRepo.cs",
+              "RelativeToolTip": "Campany\\Repos\\Implementation\\ApplicationUserCustomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:50:09.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "Campany\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "Campany\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:49:57.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeProject.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Interfaces\\IEmployeeProject.cs",
+              "RelativeDocumentMoniker": "Campany\\Repos\\Interfaces\\IEmployeeProject.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Interfaces\\IEmployeeProject.cs",
+              "RelativeToolTip": "Campany\\Repos\\Interfaces\\IEmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:16:32.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Campany\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Campany\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:27:15.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Campany\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Campany\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:26:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Campany\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Campany\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:26:30.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Campany\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Campany\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:24:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeProjectCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Implementation\\EmployeeProjectCustomRepo.cs",
+              "RelativeDocumentMoniker": "Campany\\Repos\\Implementation\\EmployeeProjectCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Repos\\Implementation\\EmployeeProjectCustomRepo.cs",
+              "RelativeToolTip": "Campany\\Repos\\Implementation\\EmployeeProjectCustomRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:17:28.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\EmployeeProjectController.cs",
+              "RelativeDocumentMoniker": "Campany\\Controllers\\EmployeeProjectController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Controllers\\EmployeeProjectController.cs",
+              "RelativeToolTip": "Campany\\Controllers\\EmployeeProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:12:24.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\DTOs\\EmployeeProjectDTO.cs",
+              "RelativeDocumentMoniker": "Campany\\DTOs\\EmployeeProjectDTO.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\DTOs\\EmployeeProjectDTO.cs",
+              "RelativeToolTip": "Campany\\DTOs\\EmployeeProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:16:55.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Campany\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Campany\\Campany\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Campany\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:14:45.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
